@@ -18,3 +18,15 @@ python/pyvte.pc
 test-driver
 vte-uninstalled.pc
 vte.pc
+*.o
+*.gmo
+.libs
+doc/openi18n/cursor
+*.lo
+*.la
+src/vte
+gnome-pty-helper/gnome-pty-helper
+python/vte.c
+src/interpret
+src/slowcat
+src/stamp-vtetypebuiltins.h
