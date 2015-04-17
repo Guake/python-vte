@@ -11,3 +11,10 @@ terminal known to the system's terminfo database.
 VTE doesn't have a homepage.  Report any issues at:
 
   http://bugzilla.gnome.org/enter_bug.cgi?product=vte
+
+
+Compilation instructions:
+=========================
+
+Ubuntu:
+- gobject-introspection
